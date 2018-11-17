@@ -1,1 +1,1 @@
-alert("hello");
+export { default as Greeting }  from './hello.js';
